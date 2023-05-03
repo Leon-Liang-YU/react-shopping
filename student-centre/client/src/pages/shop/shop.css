@@ -48,10 +48,6 @@
   cursor: pointer;
 }
 
-.product .description p {
-  text-decoration: none;
-}
-
 .addTocartBttn {
   background-color: transparent;
   border: 2px solid darkblue;
