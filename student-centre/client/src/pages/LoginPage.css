@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+.wrapper {
+  background-image: url("../../public/marek-piwnicki-xhlFJpkRwZo-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 0 auto;
+}
+
+.wrapper h1 {
+  margin: 0 auto;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 70vh;
+}
+
+.container {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 15px 0 15px;
+}
+
+.input-field .input1 {
+  /* margin-right: 52px; */
+  margin-bottom: 5px;
+}
+.input-field input {
+  height: 45px;
+  width: 85%;
+  border-radius: 25px;
+  font-size: 25px;
+  border: none;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.1);
+  outline: none;
+}
+
+.input-field .login {
+  height: 45px;
+  width: 85%;
+  margin-top: 5px;
+  font-size: 25px;
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+}
+
+.detail-img {
+  height: 500;
+  width: 600;
+}

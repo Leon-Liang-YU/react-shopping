@@ -1,0 +1,16 @@
+.create-page input {
+  height: 35px;
+}
+
+.create-page button {
+  height: 35px;
+}
+
+.create-page {
+  margin-top: 100px;
+  min-height: 70vh;
+}
+
+.create {
+  margin-top: 200px;
+}
